@@ -1,0 +1,18 @@
+{
+  "editor.formatOnSave": true,
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "editor.tabSize": 2,
+  "files.associations": { "*.js": "javascriptreact" },
+  "emmet.includeLanguages": { "javascript": "javascriptreact" },
+  "workbench.colorCustomizations": {
+    "titleBar.activeBackground": "#0d0f14",
+    "titleBar.activeForeground": "#d97706",
+    "activityBar.background": "#0d0f14",
+    "activityBar.foreground": "#d97706",
+    "sideBar.background": "#13161e",
+    "tab.activeBackground": "#1a1d27",
+    "tab.activeForeground": "#d97706",
+    "statusBar.background": "#0d0f14",
+    "statusBar.foreground": "#8b90a0"
+  }
+}
